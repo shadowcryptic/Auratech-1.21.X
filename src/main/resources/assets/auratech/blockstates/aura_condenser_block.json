@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "" : {
+      "model": "auratech:block/aura_condenser_block"
+    }
+  }
+}

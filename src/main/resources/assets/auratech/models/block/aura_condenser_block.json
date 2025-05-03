@@ -1,0 +1,6 @@
+{
+  "parent" : "minecraft:block/cube_all",
+  "textures" : {
+    "all": "auratech:block/aura_condenser_block"
+  }
+}

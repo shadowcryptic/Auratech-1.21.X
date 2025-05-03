@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "auratech:infused_leaf"
+  },
+  "result": {
+    "id": "auratech:verdant_shard"
+  },
+  "experience": 5,
+  "cookingtime": 100
+}
